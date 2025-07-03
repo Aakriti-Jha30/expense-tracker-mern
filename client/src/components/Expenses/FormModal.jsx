@@ -29,7 +29,7 @@ const FormModal = ({setIsOpen}) => {
   return (
 
 
-     <div className="fixed inset-0 z-50 flex justify-center items-center  border-4 border-red-500">
+     <div className="fixed inset-0 z-50 flex justify-center items-center">
       <div className="relative bg-white rounded-lg w-full max-w-md p-6 shadow-lg">
         <div className="flex justify-between items-center border-b pb-3 mb-4">
           <h3 className="text-lg font-semibold text-gray-900">Add Expense</h3>
